@@ -46,12 +46,6 @@
 ---
 
 
-## 🔥 Contribution Graph
-
-[![Suryaveer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suryaveersingh18&theme=react-dark)](https://github.com/suryaveersingh18)
-
----
-
 ## ✨ Visitor Count
 
 ![](https://komarev.com/ghpvc/?username=suryaveersingh18&color=blue)
