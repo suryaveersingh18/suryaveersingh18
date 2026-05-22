@@ -27,6 +27,14 @@
 
 ---
 
+## 📊 GitHub Streak Stats
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suryaveersingh18&theme=radical&hide_border=false&border_radius=12" />
+
+</p>
+
 ## 💻 Tech Stack
 
 <p align="left">
