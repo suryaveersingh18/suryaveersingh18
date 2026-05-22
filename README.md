@@ -47,12 +47,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=suryaveersingh18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## 🔥 Contribution Graph
 
 [![Suryaveer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suryaveersingh18&theme=react-dark)](https://github.com/suryaveersingh18)
